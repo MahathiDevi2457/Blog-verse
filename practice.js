@@ -1,6 +1,7 @@
 console.log("hello world!,Mahathi Devi")
 
 let name ="Dev Astra";
+name="cat"
 console.log(name)
 
 let num=18;
@@ -28,4 +29,5 @@ console.log(person.name)
 console.log(person.age)
 console.log(typeof person)
 console.log(person["name"])
+
 
